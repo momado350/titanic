@@ -1,1 +1,2 @@
 # titanic
+In this Project we will be using data from Kaggle, to predict survivors from titanic, we will use seaborn, cufflings for exploratory analysis, then we use Sckit-learn to predict if person survived or not from tiatnic.
